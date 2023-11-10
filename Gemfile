@@ -8,6 +8,8 @@ gem "rails", "~> 7.0.4"
 
 gem 'sassc', '~> 2.0'
 
+gem "bcrypt",          "3.1.18"
+
 gem 'rails-controller-testing'
 
 gem 'bootstrap-sass', '~> 3.4'
